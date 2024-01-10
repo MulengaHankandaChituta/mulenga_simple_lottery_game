@@ -1,0 +1,1 @@
+This code written in Python is a simple lottery game called Keno. The inspiration for it is Keno which was one of the virtual games customers could play at the sports  betting company I once worked at.
